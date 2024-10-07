@@ -6,7 +6,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - name: Imprimir mensagem
-          run: echo "Oi, Mundo"
+          run: echo "Ei Mundo"
     job2-goodbye:
         runs-on: ubuntu-latest
         steps:
